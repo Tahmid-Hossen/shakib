@@ -1,0 +1,64 @@
+.menu-name{
+  text-decoration: none;
+  color: #fff !important;
+  text-decoration: none !important;
+}
+
+.admin-section {
+  background-color: #ddd;
+  height: 350px;
+  position: relative;
+}
+
+.admin-section h1 {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.categories {
+    margin-top: 40px;
+    margin-bottom: 30px;
+} 
+.slider-bg {
+    background-color:rgb(52, 127, 224);
+    padding: 50px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.cart1 {
+    background-color: #ffff00;
+}
+.cart2 {
+    background-color: #ffcc00;
+}
+.cart3 {
+    background-color: #ff6600;
+}
+.categories img {
+    width: 100px;
+    height: 100ox;
+}
+.footer h6 {
+    color: rgb(52, 127, 224);
+}
+.card-body {
+    background-color: #BEBEBE;
+}  
+.blockquote mb-0 card-body {
+    background-color: #BEBEBE;
+}
+/* .subscription {
+  overflow: hidden;
+  margin-top: 20px;
+} */
+.footer {
+  background-color: #000;
+  padding-top: 20px ;
+  padding-bottom: 20px;
+}
+
+.footer h6{
+  color: #fff !important;
+}
